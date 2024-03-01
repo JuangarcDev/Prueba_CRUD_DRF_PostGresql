@@ -154,13 +154,25 @@ MÉTODO DELETE WEB
 Se puede apreciar como se elimina de la BD el registro de la película con id =2, posteriormente se intenta buscar con get, pero no se encunetra ningun registro con id = 2 ya que se elimino.
 
 
+## PROPUESTAS TENTATIVAS DE IMPLEMENTAR FUNCIONALIDADES ADICIONALES :heavy_check_mark:
+
+![14_sugeridos_GET_SEARCH](https://github.com/JuangarcDev/Prueba_CRUD_DRF_PostGresql/assets/131199084/607daf90-138f-42a9-ae58-82327d7f0bc3)
+
+Funcionalidad propuesta para solucionar las querys en la consulta de alguna película por algún parametro especifico.
+
+![14_sugeridos_bonus](https://github.com/JuangarcDev/Prueba_CRUD_DRF_PostGresql/assets/131199084/b46a5edd-86c2-43a1-93bb-f0e6824530e3)
+
+Funcionalidad propuesta para solucionar el bonus del ejercicio en la consulta de alguna película por algún parametro especifico.
+
+![15_sugeridos_RESUMEN](https://github.com/JuangarcDev/Prueba_CRUD_DRF_PostGresql/assets/131199084/12164c5a-687c-4804-ac7c-866c28313246)
+
+Funcionalidad propuesta para solucionar el punto 3 de los resumentes
 
 
+LA PARTE 2, NO SE PUDO DESARROLLAR YA QUE SE TUVO PROBLEMAS CON LA INSTALACION DEL GDAL EN EL PROYECTO, LO CUAL COMPLICO TODO LO DE TRAER LOS DATOS DE LONGITUD Y LATITUD DE LOS PAISES.
+## DESARROLLADO POR :heavy_check_mark:
 
-
-
-
-
+Juan Carlos García Guerrero
 
 
 
